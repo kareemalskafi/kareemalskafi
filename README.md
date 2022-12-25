@@ -76,13 +76,13 @@ I love working on creative ideas, transforming UI to code, and maintainig projec
 As a huge fan of open source, all my personal projects live on GitHub and Codepen. I have built over 20+ projects but there are some that I believe are worth mentioning:
 
 <div align="left">
-  <!--  Kareem-portfolio   -->
+  <!--  Kareem-portfolio  -->
   <a href="https://github.com/kareemalskafi/Kareem-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kareemalskafi&repo=Kareem-portfolio&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Kareem-portfolio"></a>
-  <!--  Kareem-portfolio   -->
+  <!--  Kareem-portfolio  -->
   <a href="https://github.com/kareemalskafi/Kareem-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kareemalskafi&repo=Kareem-portfolio&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Kareem-portfolio"></a>
-  <!--  Kareem-portfolio   -->
+  <!--  Kareem-portfolio  -->
   <a href="https://github.com/kareemalskafi/Kareem-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kareemalskafi&repo=Kareem-portfolio&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Kareem-portfolio"></a>
-  <!--  Kareem-portfolio   -->
+  <!--  Kareem-portfolio  -->
   <a href="https://github.com/kareemalskafi/Kareem-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kareemalskafi&repo=Kareem-portfolio&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Kareem-portfolio"></a>
 </div>
 
