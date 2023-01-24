@@ -1,4 +1,4 @@
-<!--- Banner Image --->
+<!-- Banner Image -->
 
 <img src="https://komarev.com/ghpvc/?username=kareemalskafi&style=flat-square&color=6cd63e">
 
